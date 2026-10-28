@@ -1,0 +1,1 @@
+import{a as e}from"./index-BI44bMoi.js";var t=e;export{t as component};
