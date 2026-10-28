@@ -1,1 +1,0 @@
-import{a as e}from"./index-p-pYR-ky.js";var t=e;export{t as component};
